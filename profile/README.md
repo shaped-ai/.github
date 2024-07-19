@@ -1,3 +1,3 @@
 # Welcome to Shaped 🚀
 
-Shaped is an API for real-time recommendations, search and discovery. Unlock the power of your data with state-of-the-art personalized AI.
+Shaped is the fastest way to deploy relevant recommendations and search. Unlock the power of your data with state-of-the-art personalized AI.
